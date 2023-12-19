@@ -5,6 +5,9 @@
 
 ### 👷 Check out what I'm currently working on
 - 🔭 I’m currently working on [Delphi Analyzer](avaible soon)(Repo is private atm, will be public soon)
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 
 ### 🌱 My latest projects
 {{ range recentRepos 5 }}

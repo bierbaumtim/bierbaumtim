@@ -16,8 +16,8 @@ jobs:
 
       - name: Generate README
         uses: muesli/readme-scribe@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.MARKSCRIBE_TOKEN }}
+        #env:
+          #GITHUB_TOKEN: ${{ secrets.MARKSCRIBE_TOKEN }}
         with:
           template: 'README.gtpl'
           writeTo: 'README.md'
