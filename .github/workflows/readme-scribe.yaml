@@ -19,6 +19,16 @@ jobs:
           SUPER_SECRET: ${{ secrets.MARKSCRIBE_TOKEN }}
         run: echo "Tester \"$SUPER_SECRET\""
 
+      # perform secret check & put boolean result as an output
+      - name: Test secret set
+        shell: bash
+        run: |
+          if [ "${{ secrets.MARKSCRIBE_TOKEN }}" != '' ]; then
+            echo "defined=true"
+          else
+            echo "defined=false"
+          fi
+
       - name: Generate README
         uses: muesli/readme-scribe@master
         env:
