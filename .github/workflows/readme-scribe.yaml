@@ -14,11 +14,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - shell: cmd
+      - name: Test Echo
         env:
           SUPER_SECRET: ${{ secrets.MARKSCRIBE_TOKEN }}
-        run: |
-          echo "%SUPER_SECRET%"
+        run: echo "$SUPER_SECRET"
 
       - name: Generate README
         uses: muesli/readme-scribe@master
