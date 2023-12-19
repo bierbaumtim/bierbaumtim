@@ -10,19 +10,13 @@ jobs:
   readme-scribe:
     runs-on: ubuntu-latest
 
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the changed files back to the repository.
+      contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
-      # perform secret check & put boolean result as an output
-      - name: Test secret set
-        shell: bash
-        run: |
-          if [ "${{ secrets.MARKSCRIBE_TOKEN }}" != '' ]; then
-            echo "defined=true"
-          else
-            echo "defined=false"
-          fi
 
       - name: Generate README
         uses: muesli/readme-scribe@master
@@ -33,7 +27,7 @@ jobs:
           writeTo: 'README.md'
 
       - name: Commit README
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         env:
           GITHUB_TOKEN: ${{ secrets.MARKSCRIBE_TOKEN }}
         with:
