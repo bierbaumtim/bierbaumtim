@@ -14,11 +14,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Test Echo
-        env:
-          SUPER_SECRET: ${{ secrets.MARKSCRIBE_TOKEN }}
-        run: echo "Tester \"$SUPER_SECRET\""
-
       # perform secret check & put boolean result as an output
       - name: Test secret set
         shell: bash
@@ -32,8 +27,7 @@ jobs:
       - name: Generate README
         uses: muesli/readme-scribe@master
         env:
-          # GITHUB_TOKEN: ${{ secrets.MARKSCRIBE_TOKEN }}
-          GITHUB_TOKEN: ''
+          GITHUB_TOKEN: ${{ secrets.MARKSCRIBE_TOKEN }}
         with:
           template: 'README.gtpl'
           writeTo: 'README.md'
