@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tim Bierbaum</h1>
 <h3 align="center">A passionate backend and mobile developer from Germany</h3>
 
-- 💬 Ask me about **Flutter**
-
 ### 👷 Check out what I'm currently working on
-- 🔭 I’m currently working on [Delphi Analyzer](avaible soon)(Repo is private atm, will be public soon)
+- Delphi Analyzer (Repo is private atm, will be public soon)
 {{ range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
@@ -24,7 +22,10 @@
 - [{{ .Name }}]({{ .URL }}) [`{{ .LastRelease.TagName }}`]({{ .LastRelease.URL }}) - {{.Description}}
 {{- end }}
 
-<h3 align="left">Languages and Tools:</h3>
+### ❓Ask me about
+- Flutter
+
+### 🌍🛠️ Languages and Tools
 <p align="left"> 
     <a href="https://appwrite.io" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> 
