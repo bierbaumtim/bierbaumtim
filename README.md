@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tim Bierbaum</h1>
 <h3 align="center">A passionate backend and mobile developer from Germany</h3>
 
-- 💬 Ask me about **Flutter**
-
 ### 👷 Check out what I'm currently working on
-- 🔭 I’m currently working on [Delphi Analyzer](avaible soon)(Repo is private atm, will be public soon)
+- Delphi Analyzer (Repo is private atm, will be public soon)
 
 - [bierbaumtim/arb_editor](https://github.com/bierbaumtim/arb_editor) - 
 - [bierbaumtim/focus_timer](https://github.com/bierbaumtim/focus_timer) - 
@@ -31,7 +29,10 @@
 
 - [mogol/flutter_secure_storage](https://github.com/mogol/flutter_secure_storage) [`v9.0.0`](https://github.com/mogol/flutter_secure_storage/releases/tag/v9.0.0) - A Flutter plugin to store data in secure storage
 
-<h3 align="left">Languages and Tools:</h3>
+### ❓Ask me about
+- Flutter
+
+### 🌍🛠️ Languages and Tools
 <p align="left"> 
     <a href="https://appwrite.io" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> 
