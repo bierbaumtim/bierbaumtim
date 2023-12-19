@@ -29,8 +29,13 @@
 
 - [mogol/flutter_secure_storage](https://github.com/mogol/flutter_secure_storage) [`v9.0.0`](https://github.com/mogol/flutter_secure_storage/releases/tag/v9.0.0) - A Flutter plugin to store data in secure storage
 
-### ❓Ask me about
+### ❓ Ask me about
 - Flutter
+
+### 📲 Connect with me
+<a href="https://linkedin.com/in/tim-bierbaum" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tim-bierbaum" height="30" width="40" />
+</a>
 
 ### 🌍🛠️ Languages and Tools
 <p align="left"> 
@@ -57,9 +62,6 @@
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
