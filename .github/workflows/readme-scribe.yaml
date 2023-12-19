@@ -17,7 +17,7 @@ jobs:
       - name: Test Echo
         env:
           SUPER_SECRET: ${{ secrets.MARKSCRIBE_TOKEN }}
-        run: echo "$SUPER_SECRET"
+        run: echo "Tester \"$SUPER_SECRET\""
 
       - name: Generate README
         uses: muesli/readme-scribe@master
