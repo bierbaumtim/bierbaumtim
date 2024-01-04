@@ -4,6 +4,7 @@
 ### 👷 Check out what I'm currently working on
 - Delphi Analyzer (Repo is private atm, will be public soon)
 
+- [bierbaumtim/xsd-delphi-code-gen](https://github.com/bierbaumtim/xsd-delphi-code-gen) - Small and simple programm to generate delphi code from one or more xsd files.
 - [bierbaumtim/arb_editor](https://github.com/bierbaumtim/arb_editor) - 
 - [bierbaumtim/focus_timer](https://github.com/bierbaumtim/focus_timer) - 
 - [mogol/flutter_secure_storage](https://github.com/mogol/flutter_secure_storage) - A Flutter plugin to store data in secure storage
@@ -11,11 +12,11 @@
 
 ### 🌱 My latest projects
 
+- [bierbaumtim/xsd-delphi-code-gen](https://github.com/bierbaumtim/xsd-delphi-code-gen) - Small and simple programm to generate delphi code from one or more xsd files.
 - [bierbaumtim/impeller_error_reproducible_example](https://github.com/bierbaumtim/impeller_error_reproducible_example) - 
 - [bierbaumtim/arb_editor](https://github.com/bierbaumtim/arb_editor) - 
 - [bierbaumtim/firestore_memory_leak_repro](https://github.com/bierbaumtim/firestore_memory_leak_repro) - 
 - [bierbaumtim/project_superbingo_keynote](https://github.com/bierbaumtim/project_superbingo_keynote) - 
-- [bierbaumtim/bierbaumtim.github.io](https://github.com/bierbaumtim/bierbaumtim.github.io) - 
 
 ### 🔨 My recent Pull Requests
 
@@ -27,6 +28,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [bierbaumtim/xsd-delphi-code-gen](https://github.com/bierbaumtim/xsd-delphi-code-gen) [`0.1.20`](https://github.com/bierbaumtim/xsd-delphi-code-gen/releases/tag/0.1.20) - Small and simple programm to generate delphi code from one or more xsd files.
 - [mogol/flutter_secure_storage](https://github.com/mogol/flutter_secure_storage) [`v9.0.0`](https://github.com/mogol/flutter_secure_storage/releases/tag/v9.0.0) - A Flutter plugin to store data in secure storage
 
 ### ❓ Ask me about
