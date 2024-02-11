@@ -20,15 +20,15 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Attributes support](https://github.com/bierbaumtim/xsd-delphi-code-gen/pull/1) on [bierbaumtim/xsd-delphi-code-gen](https://github.com/bierbaumtim/xsd-delphi-code-gen)
 - [[iOS] - Add support for FlutterStandardTypedData](https://github.com/ABausG/home_widget/pull/197) on [ABausG/home_widget](https://github.com/ABausG/home_widget)
 - [Feature - Check availability of protected data on iOS and macOS](https://github.com/mogol/flutter_secure_storage/pull/629) on [mogol/flutter_secure_storage](https://github.com/mogol/flutter_secure_storage)
 - [macOS Keychain - Use accessiblity option for all operations and throw PlatformException for SecErrors](https://github.com/mogol/flutter_secure_storage/pull/628) on [mogol/flutter_secure_storage](https://github.com/mogol/flutter_secure_storage)
 - [iOS Keychain - Use accessiblity option for all operations and throw PlatformException for SecErrors](https://github.com/mogol/flutter_secure_storage/pull/602) on [mogol/flutter_secure_storage](https://github.com/mogol/flutter_secure_storage)
-- [Darkmode support for example](https://github.com/jamesblasco/modal_bottom_sheet/pull/232) on [jamesblasco/modal_bottom_sheet](https://github.com/jamesblasco/modal_bottom_sheet)
 
 ### 🔭 Latest releases I've contributed to
 
-- [bierbaumtim/xsd-delphi-code-gen](https://github.com/bierbaumtim/xsd-delphi-code-gen) [`0.1.20`](https://github.com/bierbaumtim/xsd-delphi-code-gen/releases/tag/0.1.20) - Small and simple programm to generate delphi code from one or more xsd files.
+- [bierbaumtim/xsd-delphi-code-gen](https://github.com/bierbaumtim/xsd-delphi-code-gen) [`0.1.21`](https://github.com/bierbaumtim/xsd-delphi-code-gen/releases/tag/0.1.21) - Small and simple programm to generate delphi code from one or more xsd files.
 - [mogol/flutter_secure_storage](https://github.com/mogol/flutter_secure_storage) [`v9.0.0`](https://github.com/mogol/flutter_secure_storage/releases/tag/v9.0.0) - A Flutter plugin to store data in secure storage
 
 ### ❓ Ask me about
