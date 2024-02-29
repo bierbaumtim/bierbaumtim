@@ -4,7 +4,7 @@
 ### 👷 Check out what I'm currently working on
 - Delphi Analyzer (Repo is private atm, will be public soon)
 
-- [bierbaumtim/yalp](https://github.com/bierbaumtim/yalp) - 
+- [bierbaumtim/yalp](https://github.com/bierbaumtim/yalp) - Yet another logging package
 - [bierbaumtim/xsd-delphi-code-gen](https://github.com/bierbaumtim/xsd-delphi-code-gen) - Small and simple programm to generate delphi code from one or more xsd files.
 - [bierbaumtim/lazy_load_refresh_indicator](https://github.com/bierbaumtim/lazy_load_refresh_indicator) - A simple Flutter Widget which provide PullToRefresh and LoadMore functionality. It&#39;s based on flutters RefreshIndicator, so every change to it should not break this package.
 - [bierbaumtim/arb_editor](https://github.com/bierbaumtim/arb_editor) - 
@@ -12,7 +12,7 @@
 
 ### 🌱 My latest projects
 
-- [bierbaumtim/yalp](https://github.com/bierbaumtim/yalp) - 
+- [bierbaumtim/yalp](https://github.com/bierbaumtim/yalp) - Yet another logging package
 - [bierbaumtim/xsd-delphi-code-gen](https://github.com/bierbaumtim/xsd-delphi-code-gen) - Small and simple programm to generate delphi code from one or more xsd files.
 - [bierbaumtim/impeller_error_reproducible_example](https://github.com/bierbaumtim/impeller_error_reproducible_example) - 
 - [bierbaumtim/arb_editor](https://github.com/bierbaumtim/arb_editor) - 
@@ -84,7 +84,7 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
     </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
