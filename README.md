@@ -21,7 +21,7 @@
 ### 🔨 My recent Pull Requests
 
 - [Attributes support](https://github.com/bierbaumtim/xsd-delphi-code-gen/pull/1) on [bierbaumtim/xsd-delphi-code-gen](https://github.com/bierbaumtim/xsd-delphi-code-gen)
-- [[iOS] - Add support for FlutterStandardTypedData](https://github.com/ABausG/home_widget/pull/197) on [ABausG/home_widget](https://github.com/ABausG/home_widget)
+- [feat: support Uint8List as FlutterStandardTypedData on iOS](https://github.com/ABausG/home_widget/pull/197) on [ABausG/home_widget](https://github.com/ABausG/home_widget)
 - [Feature - Check availability of protected data on iOS and macOS](https://github.com/mogol/flutter_secure_storage/pull/629) on [mogol/flutter_secure_storage](https://github.com/mogol/flutter_secure_storage)
 - [macOS Keychain - Use accessiblity option for all operations and throw PlatformException for SecErrors](https://github.com/mogol/flutter_secure_storage/pull/628) on [mogol/flutter_secure_storage](https://github.com/mogol/flutter_secure_storage)
 - [iOS Keychain - Use accessiblity option for all operations and throw PlatformException for SecErrors](https://github.com/mogol/flutter_secure_storage/pull/602) on [mogol/flutter_secure_storage](https://github.com/mogol/flutter_secure_storage)
