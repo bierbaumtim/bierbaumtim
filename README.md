@@ -4,11 +4,11 @@
 ### 👷 Check out what I'm currently working on
 - Delphi Analyzer (Repo is private atm, will be public soon)
 
+- [ABausG/home_widget](https://github.com/ABausG/home_widget) - Flutter Package for Easier Creation of Home Screen Widgets
 - [bierbaumtim/xsd-delphi-code-gen](https://github.com/bierbaumtim/xsd-delphi-code-gen) - Small and simple programm to generate delphi code from one or more xsd files.
 - [bierbaumtim/yalp](https://github.com/bierbaumtim/yalp) - Yet another logging package
 - [bierbaumtim/lazy_load_refresh_indicator](https://github.com/bierbaumtim/lazy_load_refresh_indicator) - A simple Flutter Widget which provide PullToRefresh and LoadMore functionality. It&#39;s based on flutters RefreshIndicator, so every change to it should not break this package.
 - [bierbaumtim/arb_editor](https://github.com/bierbaumtim/arb_editor) - 
-- [bierbaumtim/focus_timer](https://github.com/bierbaumtim/focus_timer) - 
 
 ### 🌱 My latest projects
 
@@ -29,6 +29,7 @@
 ### 🔭 Latest releases I've contributed to
 
 - [bierbaumtim/xsd-delphi-code-gen](https://github.com/bierbaumtim/xsd-delphi-code-gen) [`0.1.21`](https://github.com/bierbaumtim/xsd-delphi-code-gen/releases/tag/0.1.21) - Small and simple programm to generate delphi code from one or more xsd files.
+- [ABausG/home_widget](https://github.com/ABausG/home_widget) [`v0.4.1`](https://github.com/ABausG/home_widget/releases/tag/v0.4.1) - Flutter Package for Easier Creation of Home Screen Widgets
 - [mogol/flutter_secure_storage](https://github.com/mogol/flutter_secure_storage) [`v9.0.0`](https://github.com/mogol/flutter_secure_storage/releases/tag/v9.0.0) - A Flutter plugin to store data in secure storage
 
 ### ❓ Ask me about
