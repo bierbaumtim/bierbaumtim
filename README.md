@@ -8,7 +8,7 @@
 - [ABausG/home_widget](https://github.com/ABausG/home_widget) - Flutter Package for Easier Creation of Home Screen Widgets
 - [bierbaumtim/yalp](https://github.com/bierbaumtim/yalp) - Yet another logging package
 - [bierbaumtim/lazy_load_refresh_indicator](https://github.com/bierbaumtim/lazy_load_refresh_indicator) - A simple Flutter Widget which provide PullToRefresh and LoadMore functionality. It&#39;s based on flutters RefreshIndicator, so every change to it should not break this package.
-- [bierbaumtim/arb_editor](https://github.com/bierbaumtim/arb_editor) - 
+- [bierbaumtim/focus_timer](https://github.com/bierbaumtim/focus_timer) - 
 
 ### 🌱 My latest projects
 
