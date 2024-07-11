@@ -28,9 +28,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [ABausG/home_widget](https://github.com/ABausG/home_widget) [`v0.6.0`](https://github.com/ABausG/home_widget/releases/tag/v0.6.0) - Flutter Package for Easier Creation of Home Screen Widgets
 - [bierbaumtim/xsd-delphi-code-gen](https://github.com/bierbaumtim/xsd-delphi-code-gen) [`0.2.6`](https://github.com/bierbaumtim/xsd-delphi-code-gen/releases/tag/0.2.6) - Small and simple programm to generate delphi code from one or more xsd files.
 - [mogol/flutter_secure_storage](https://github.com/mogol/flutter_secure_storage) [`v9.2.2`](https://github.com/mogol/flutter_secure_storage/releases/tag/v9.2.2) - A Flutter plugin to store data in secure storage
-- [ABausG/home_widget](https://github.com/ABausG/home_widget) [`v0.5.0`](https://github.com/ABausG/home_widget/releases/tag/v0.5.0) - Flutter Package for Easier Creation of Home Screen Widgets
 
 ### ❓ Ask me about
 - Flutter
