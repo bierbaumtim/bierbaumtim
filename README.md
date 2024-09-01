@@ -4,7 +4,7 @@
 ### 👷 Check out what I'm currently working on
 - Delphi Analyzer (Repo is private atm, will be public soon)
 
-- [bierbaumtim/dynamic-micro-frontends](https://github.com/bierbaumtim/dynamic-micro-frontends) - 
+- [bierbaumtim/dynamic-micro-frontends](https://github.com/bierbaumtim/dynamic-micro-frontends) - Exploring microservice architecture in SPAs
 - [bierbaumtim/xsd-delphi-code-gen](https://github.com/bierbaumtim/xsd-delphi-code-gen) - Small and simple programm to generate delphi code from one or more xsd files.
 - [bierbaumtim/yalp](https://github.com/bierbaumtim/yalp) - Yet another logging package
 - [ABausG/home_widget](https://github.com/ABausG/home_widget) - Flutter Package for Easier Creation of Home Screen Widgets
@@ -12,7 +12,7 @@
 
 ### 🌱 My latest projects
 
-- [bierbaumtim/dynamic-micro-frontends](https://github.com/bierbaumtim/dynamic-micro-frontends) - 
+- [bierbaumtim/dynamic-micro-frontends](https://github.com/bierbaumtim/dynamic-micro-frontends) - Exploring microservice architecture in SPAs
 - [bierbaumtim/yalp](https://github.com/bierbaumtim/yalp) - Yet another logging package
 - [bierbaumtim/xsd-delphi-code-gen](https://github.com/bierbaumtim/xsd-delphi-code-gen) - Small and simple programm to generate delphi code from one or more xsd files.
 - [bierbaumtim/impeller_error_reproducible_example](https://github.com/bierbaumtim/impeller_error_reproducible_example) - 
